@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "KIDDIES CAKE",
+        "price": 50,
+        "image": "image1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "BUDGET CAKE",
+        "price": 20,
+        "image": "image2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "BUDGET CAKE",
+        "price": 20,
+        "image": "image3.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "CAKE FOR MOM",
+        "price": 100,
+        "image": "image4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "TASTY NAKED CAKE",
+        "price": 50,
+        "image": "image5.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "BUDGET CAKE",
+        "price": 20,
+        "image": "image6.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "SMALLCHOPS",
+        "price": 2,
+        "image": "image7.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "PLATTER",
+        "price": 60,
+        "image": "image8.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "CHOCOLATE CAKE SLICE",
+        "price": 10,
+        "image": "image9.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "BUDGET KIDDIES CAKE",
+        "price": 15,
+        "image": "image10.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "GRAD CAKE",
+        "price": 10,
+        "image": "image11.jpeg"
+    }
+]
